@@ -2,7 +2,6 @@
     "builds": [
       {
         "src": "index.html",
-        "src": "carafad.png",
         "use": "@vercel/static"
       }
     ]
