@@ -5,7 +5,7 @@
       "use": "@vercel/static"
     },
     {
-      "src": "image.png",
+      "src": "image.jpg",
       "use": "@vercel/static"
     }
   ]
