@@ -5,7 +5,7 @@
       "use": "@vercel/static"
     },
     {
-      "src": "carafad.png",
+      "src": "image.png",
       "use": "@vercel/static"
     }
   ]
