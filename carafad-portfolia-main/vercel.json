@@ -1,9 +1,13 @@
 {
-    "builds": [
-      {
-        "src": "index.html",
-        "use": "@vercel/static"
-      }
-    ]
-  }
-  
+  "builds": [
+    {
+      "src": "index.html",
+      "use": "@vercel/static"
+    },
+    {
+      "src": "carafad.png",
+      "use": "@vercel/static"
+    }
+  ]
+}
+
